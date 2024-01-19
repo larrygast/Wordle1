@@ -28,8 +28,8 @@ const getDayOfTheYear = () => {
 
 const dayOfTheYear = getDayOfTheYear();
 
-// word list
-const words = wordList 
+// word list from wordlist.js
+const words = wordList
 
 
 export default function App() {
@@ -125,6 +125,9 @@ const isCellActive = (row, col) => {
   return row == curRow && col == curCol;
 }
 
+
+
+// cell colors
 const getCellBGColor = (row, col) => {
   const letter = rows[row][col];
 
@@ -135,10 +138,13 @@ if (row >= curRow) {
   if (letter == letters[col]) {
     return colors.primary;
   }
+
+  // yellow color logic
 if (letters.includes(letter)) {
   return colors.secondary;
 }
-return colors.darkgrey;
+  return colors.darkgrey;
+
 };
 
 // define keyboard color

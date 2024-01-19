@@ -23,5 +23,14 @@
 - The first 's' in "gusso" should be green but the second one should be grey (since there is only one s in gusto). Currently it is yellow. 
 
 
+    ## current logic
+    - If the letter is not in the right position, but is in the word that we are guessing, it will be yellow.
+
+    ## new logic
+    - If the letter is not in the right position AND isn't guessed correctly somewhere else in the word, it will be yellow
+    - UNLESS the letter occurs twice in the word
+
+
+
 
 

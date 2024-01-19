@@ -1,5 +1,42 @@
 
 export const wordList = [
+    "sushi","sushi",
+    "sushi","sushi",
+    "sushi","sushi",
+    "sushi","sushi",
+    "sushi","sushi",
+    "sushi","sushi",
+    "sushi","sushi",
+    "sushi","sushi",
+    "sushi","sushi",
+    "sushi","sushi",
+    "sushi","sushi",
+    "sushi","sushi",
+    "sushi","sushi",
+    "sushi","sushi",
+    "sushi","sushi",
+    "sushi","sushi",
+    "sushi","sushi",
+    "sushi","sushi",
+    "sushi","sushi",
+    "sushi","sushi",
+    "sushi","sushi",
+    "sushi","sushi",
+    "sushi","sushi",
+    "sushi","sushi",
+    "sushi","sushi",
+    "sushi","sushi",
+    "sushi","sushi",
+    "sushi","sushi",
+    "sushi","sushi",
+    "sushi","sushi",
+    "sushi","sushi",
+    "sushi","sushi",
+  
+]
+    
+    
+    /*
     "rolls",
     "rice",
     "maki",
@@ -37,4 +74,4 @@ export const wordList = [
     "soyum",
     "sweet",
     ];
-
+*/
